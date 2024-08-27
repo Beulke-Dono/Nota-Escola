@@ -1,0 +1,18 @@
+Login - (aluno, professor, funcionario)
+Cadastro (feito pelos funcionarios)
+
+Aluno:
+
+Ele Vê - (turma, nota, professor, disciplina)
+
+Professor:
+
+Ele Vê - (turma, nota, professor, disciplina)
+
+Ele Altera - (nota)
+
+Funcionário:
+
+Ele Vê - (turma, nota, professor, disciplina)
+
+Ele Altera - (cadastro, turma)
